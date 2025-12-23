@@ -1,0 +1,8 @@
+streamlit
+yfinance
+pandas
+numpy
+statsmodels
+plotly
+matplotlib
+pyngrok   # optional, only if Colab demo is included
